@@ -3880,3 +3880,7 @@ input, select, textarea {
 		}
 
 	}
+
+	#three, #four, #footer section {
+		display:none
+	}
